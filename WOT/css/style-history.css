@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&family=Rubik+Mono+One&display=swap');
+body{
+    font-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../img/World-of-Tanks-Wargaming-Net-games_1920x1080.jpg");
+    font-family: 'Roboto', sans-serif;
+    cursor: url('../img/cursor_PNG12.png');
+}
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 23px;
+    margin-top: 40px;
+    text-align: center;
+}
+.logo{
+    width: 50%;
+}
+.nav-link{
+    color: black;
+    text-decoration: none;
+    margin-left: 29px;
+}
+.nav-link:hover{
+    color:  white;
+}
+.footer{
+    text-align: center;
+    color: white;
+}
+.history-wrapper{
+    height: 75%;
+    opacity: 0.8;
+    background-color: white;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.history-wrapper p{
+    margin-left: 10px;
+}
+.text-p{
+    padding: 0 10px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: white;
+}
+
